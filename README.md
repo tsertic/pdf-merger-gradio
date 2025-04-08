@@ -26,17 +26,18 @@ _(Replace preview.png with an actual screenshot of the application)_
 1.  **Clone the repository (or download ZIP):**
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/Gradio-PDF-Merger.git
-    cd Gradio-PDF-Merger
+    git clone https://github.com/tsertic/pdf-merger-gradio
+    cd pdf-merger-gradio
     ```
-
-    _(Replace `YOUR_USERNAME` with your actual GitHub username)_
 
 2.  **Install the required libraries:**
     ```bash
     pip install pypdf gradio
     ```
-    _(Alternatively, create a `requirements.txt` file containing `pypdf` and `gradio` on separate lines and run `pip install -r requirements.txt`)_
+    or
+    ```
+    pip install -r requirements.txt
+    ```
 
 ## Usage
 
